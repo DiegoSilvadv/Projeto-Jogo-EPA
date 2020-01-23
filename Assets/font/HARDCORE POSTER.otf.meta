@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ee3251712de3fd546b86526053f85381
+timeCreated: 1570058430
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HARDCORE POSTER
+  fontNames:
+  - HARDCORE POSTER
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 9cd4d4160ac016c4fa78b9c74fd8eb12
+timeCreated: 1569015000
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: personagem_0
+    21300002: personagem_1
+    21300004: personagem_2
+    21300006: personagem_3
+    21300008: personagem_4
+    21300010: personagem_5
+    21300012: personagem_6
+    21300014: personagem_7
+    21300016: personagem_8
+    21300018: personagem_9
+    21300020: personagem_10
+    21300022: personagem_11
+    21300024: personagem_12
+    21300026: personagem_13
+    21300028: personagem_14
+    21300030: personagem_15
+    21300032: personagem_16
+    21300034: personagem_17
+    21300036: personagem_18
+    21300038: personagem_19
+    21300040: personagem_20
+    21300042: personagem_21
+    21300044: personagem_22
+    21300046: personagem_23
+    21300048: personagem_24
+    21300050: personagem_25
+    21300052: personagem_26
+    21300054: personagem_27
+    21300056: personagem_28
+    21300058: personagem_29
+    21300060: personagem_30
+    21300062: personagem_31
+    21300064: personagem_32
+    21300066: personagem_33
+    21300068: personagem_34
+    21300070: personagem_35
+    21300072: personagem_36
+    21300074: personagem_37
+    21300076: personagem_38
+    21300078: personagem_39
+    21300080: personagem_40
+    21300082: personagem_41
+    21300084: personagem_42
+    21300086: personagem_43
+    21300088: personagem_44
+    21300090: personagem_45
+    21300092: personagem_46
+    21300094: personagem_47
+    21300096: personagem_48
+    21300098: personagem_49
+    21300100: personagem_50
+    21300102: personagem_51
+    21300104: personagem_52
+    21300106: personagem_53
+    21300108: personagem_54
+    21300110: personagem_55
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personagem_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 616
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 618
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 616
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 616
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 616
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 618
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_6
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 636
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 646
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 644
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_9
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 642
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_10
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 644
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 530
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 528
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 526
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 548
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 544
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 540
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 544
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 538
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_19
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 536
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_20
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 544
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_21
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 520
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 434
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 434
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 434
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 428
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 428
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 434
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 434
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 434
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_30
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 432
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 428
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_32
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 430
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_33
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 428
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_34
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 342
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 340
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 340
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 342
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_38
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 338
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_39
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 336
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_40
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 334
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_41
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 332
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_42
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 328
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_43
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 332
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_44
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 302
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_45
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 220
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 220
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_47
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 212
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_48
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 216
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_49
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 222
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 220
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_51
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 220
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 230
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_53
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 234
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_54
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 236
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: personagem_55
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 212
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
